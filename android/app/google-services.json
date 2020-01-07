@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "962101431585",
+    "firebase_url": "https://nkapearn.firebaseio.com",
+    "project_id": "nkapearn",
+    "storage_bucket": "nkapearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962101431585:android:2db2a07cdef71142178260",
+        "android_client_info": {
+          "package_name": "com.nchimehnyi.nkapearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962101431585-g19c6dn0vrg840560rqc78jr05cgiqc6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nchimehnyi.nkapearn",
+            "certificate_hash": "0d9e0786126317a28175420a110ecc66b59dcd51"
+          }
+        },
+        {
+          "client_id": "962101431585-s7337atp2v9lgf6tn4432iihsa9qerbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRhTlCwqa_UqskaECHP426-9OJYI3ip_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962101431585-s7337atp2v9lgf6tn4432iihsa9qerbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
